@@ -21,9 +21,10 @@
 
 ## Models Used
 
-1.Embedding Model: CompendiumLabs/bge-base-en-v1.5-gguf
+-Embedding Model: CompendiumLabs/bge-base-en-v1.5-gguf
 (109M parameters)
-2.Language Model: Bartowski/Llama-3.2-1B-Instruct-GGUF
+
+-Language Model: Bartowski/Llama-3.2-1B-Instruct-GGUF
 (1.24B parameters)
 
 ---
