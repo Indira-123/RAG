@@ -27,23 +27,10 @@
 -Language Model: Bartowski/Llama-3.2-1B-Instruct-GGUF
 (1.24B parameters)
 
-# Installation Guide
-
 ## Prerequisites
 
 - Python 3.7 or later
 - 8-16 GB RAM (recommended)
 - Optional: GPU for faster inference
-
-## Set Up Environment and installation
-
-   ```bash
-   conda create -n myenv python=3.9
-   conda activate myenv
-   pip install huggingface_hub
-   model_name = "bartowski/Llama-3.2-1B-Instruct-GGUF"
-   hf_hub_download(repo_id=model_name, local_dir="./models")
-   ollama pull CompendiumLabs/bge-base-en-v1.5-gguf
-
 ---
 
