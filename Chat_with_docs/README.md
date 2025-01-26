@@ -35,7 +35,7 @@
 - 8-16 GB RAM (recommended)
 - Optional: GPU for faster inference
 
-## Set Up Environment
+## Set Up Environment and installation
 
    ```bash
    conda create -n myenv python=3.9
